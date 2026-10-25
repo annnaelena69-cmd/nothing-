@@ -1,6 +1,6 @@
-# NoahDroid 😂
+#😂
 
-**INI CUMA TROLL.** Aplikasi iseng untuk hiburan, bukan aplikasi sistem atau keamanan. Aplikasi hanya menampilkan penghitung tombol dan tombol reset. Aplikasi ini tidak mengakses akun, pesan, foto, lokasi, atau data pribadi.
+**INI CUMA TROLL.** Aplikasi iseng untuk hiburan
 
 ## Fitur
 - Tampilan gelap sederhana
