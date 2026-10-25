@@ -22,13 +22,13 @@ class MainActivity : Activity() {
             setBackgroundColor(Color.rgb(15, 18, 28))
         }
         val title = TextView(this).apply {
-            text = "NoahDroid"
+            text = "NoahDroid 😎"
             textSize = 30f
             setTextColor(Color.WHITE)
             gravity = Gravity.CENTER
         }
         val subtitle = TextView(this).apply {
-            text = "Aplikasi Android pertama lo"
+            text = "INI CUMA TROLL 😂\nAplikasi iseng buat hiburan. Tidak melakukan apa-apa selain menghitung tombol."
             textSize = 16f
             setTextColor(Color.LTGRAY)
             gravity = Gravity.CENTER
